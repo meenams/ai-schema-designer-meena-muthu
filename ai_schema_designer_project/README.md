@@ -5,7 +5,7 @@ This project is an AI-inspired helper for product and analytics teams to design 
 for new product features. It is designed to mirror the type of work an Analytics Engineer at companies like Airtable might do:
 structuring events, enforcing taxonomy, and generating analytics-ready schemas.
 
-> Demo concept: "Given a feature description, generate a tracking plan, dbt-style schema YAML, synthetic events, and basic taxonomy checks."
+>  Concept: "Given a feature description, generate a tracking plan, dbt-style schema YAML, synthetic events, and basic taxonomy checks."
 
 ## What it does
 
